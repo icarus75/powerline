@@ -2,5 +2,7 @@
 custom shell powerline settings
 
 ```
-git clone git@github.com:icarus75/powerline.git ~/.config/powerline
+~ $ sudo apt install powerline
+~ $ sudo pip install powerline-gitstatus
+~$ git clone git@github.com:icarus75/powerline.git ~/.config/powerline
 ```
